@@ -8,13 +8,13 @@
 <hr>
 
 <p align="center">
-  <b><a href="README.md#profil">Profil</a>
+  <b><a href="README.md#-profil">Profil</a>
   |
-  <b><a href="README.md#deskripsi">Deskripsi</a>
+  <b><a href="README.md#-deskripsi">Deskripsi</a>
   |
-  <b><a href="README.md#alat">Alat</a>
+  <b><a href="README.md#-alat">Alat</a>
   |
-  <b><a href="README.md#daftar-tugas">Daftar Tugas</a>
+  <b><a href="README.md#-daftar-tugas">Daftar Tugas</a>
 </p>
 
 ## 👩🏻‍💻 Profil
